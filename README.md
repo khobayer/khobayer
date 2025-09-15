@@ -1,4 +1,3 @@
-# 💫 About Me:
 🌟 About Me<br><br>🛠️ I’m currently working on<br>Building HomeBite – a multi-vendor home food delivery system, and Delta Fox Technology – a software license reselling platform.<br><br>🤝 I’m looking to collaborate on<br>Open-source full-stack projects, Next.js apps, and developer experience platforms that help new developers grow.<br><br>💡 I’m looking for help with<br>Scaling real-world SaaS projects and exploring DevOps best practices for smooth deployments.<br><br>🌱 I’m currently learning<br>Advanced system design, cloud deployment (Docker, AWS, CI/CD), and improving my backend architecture skills.<br><br>💬 Ask me about<br>🚀 Full-stack development,<br>🎨 Frontend design with Next.js + Tailwind,<br>📦 Scalable backend systems with Express.js + Prisma.<br><br>⚡ Fun fact<br>I love turning ideas into real products and believe every line of code is a step toward solving real-world problems.
 
 
